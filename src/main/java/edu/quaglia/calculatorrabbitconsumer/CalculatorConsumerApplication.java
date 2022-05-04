@@ -1,4 +1,4 @@
-package edu.quaglia.calculatorrabbitmqconsumer;
+package edu.quaglia.calculatorrabbitconsumer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
